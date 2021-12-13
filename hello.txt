@@ -1,1 +1,2 @@
 sample file
+This is added from branch (new)
